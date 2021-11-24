@@ -16,7 +16,7 @@ namespace DependenceyInjectionTypes
                 Console.WriteLine(item.Name + " " + item.studentId);
             }
 
-            Console.WriteLine("Hello World!");
+           
             Console.ReadLine();
         }
     }
